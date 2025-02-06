@@ -1,14 +1,15 @@
 #Escreva um programa que que escolha um numero de 0 a 5 e pergunte ao usuario se ele acerta diga que ele venceu se nao diga que ele perdeu.
+
 from random import randint
 from time import sleep
-computador = randint(0, 0) # Faz o computador "PENSAR"
+pensamento = randint(0, 5)# Faz o computador "PENSAR"
 print('\033[33m-=-' * 20)
 print('\033[34mVou pensar em um número entre 0 e 5. Tente adivinhar...')
 print('\033[33m-=-' * 20)
-jogador = int(input('\033[mEm que número eu pensei? ')) # Jogador tenta adivinhar
+jogador = int(input('Em qual numero eu pensei?: '))
 print('\033[35mPROCESSANDO...')
 sleep(3)
-if jogador == computador:
-    print('\033[32mPARABÉNS! Você conseguiu me vencer!')
+if jogador == pensamento:
+    print('\033[32mVocê venceu')
 else:
-    print('\033[31mGANHEI! Eu pensei no número {} e não no {}!'.format(computador, jogador))
+    print('\033[31mVocê perdeu, o numero era {}'. format(pensamento))
