@@ -1,0 +1,1 @@
+#Escreva um programa que leia dois numeros inteiros e compare-os, mostrando na tela uma mensagem: o primeiro valor é o maior, segundo valor é o maior, nao existe valor maior, os dois sao iguais.
