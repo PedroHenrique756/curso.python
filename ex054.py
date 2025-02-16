@@ -1,0 +1,1 @@
+#crie um porgrama que leia o ano de  nascimento de sete pessoas. No final, mostre quantas pessoas ainda nao atingiram a maior idade e quantas ja sao maiores ( 21anos )
