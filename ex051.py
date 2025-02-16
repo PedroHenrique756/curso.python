@@ -1,0 +1,1 @@
+#desenvolva um programa que leia o primeiro termo e a razão de uma PA. no final, mostre os 3 primeiros termos dessa progressão 
