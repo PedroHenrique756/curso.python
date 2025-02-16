@@ -1,0 +1,1 @@
+#desenvolva um program que leia 6 numeros e retorne a soma dos numeros, mas somente os pares desconsiderando os imparis
