@@ -1,0 +1,1 @@
+#crie um programa que leia varios numeros inteiro pelo teclado , no final, mostre a media entre todos eles, qual foi o maior e qual foi o menor, pergunte se o usuario ainda quer continuar a digitar os valores.
