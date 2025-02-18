@@ -1,0 +1,1 @@
+#crie um program que leia varios numeros inteiros pelo teclado, o programa so vai parar quando o usuario digitar 999,condição de parada. No final, mostre quantos numeros foram digitados e e qual foi a soma entre eles desconsiderando o flag
