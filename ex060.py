@@ -1,0 +1,1 @@
+#Faça um programa que pergunte um numero qualquer e digite o seu fatorial
