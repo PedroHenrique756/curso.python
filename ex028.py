@@ -12,4 +12,4 @@ sleep(3)
 if jogador == pensamento:
     print('\033[32mVocê venceu')
 else:
-    print('\033[31mVocê perdeu, o numero era {}'. format(pensamento))
+    print('\033[32mVocê perdeu, o numero era {}'. format(pensamento))
