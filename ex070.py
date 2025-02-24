@@ -6,3 +6,4 @@ B) quantos produtos custam mais de R$1000.
 
 C) qual é o nome do produto mais barato.
 '''
+
